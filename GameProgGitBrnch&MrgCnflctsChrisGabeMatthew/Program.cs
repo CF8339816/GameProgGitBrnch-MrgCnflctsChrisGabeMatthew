@@ -19,6 +19,9 @@ namespace GameProgGitBrnch_MrgCnflctsChrisGabeMatthew
             Console.WriteLine("Hey-ya ya square blockhead!!!!");
             Console.ReadKey();
             Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("Im walkin here!");
+
+            
         }
     }
 }
