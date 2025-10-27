@@ -10,7 +10,7 @@ namespace GameProgGitBrnch_MrgCnflctsChrisGabeMatthew
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor=ConsoleColor.Magenta;
+            Console.ForegroundColor=ConsoleColor.Red;
             Console.WriteLine("Hi-ya Ya round mudball!!!");
             Console.ReadKey(true);
             Console.ForegroundColor = ConsoleColor.White;
