@@ -19,6 +19,11 @@ namespace GameProgGitBrnch_MrgCnflctsChrisGabeMatthew
             Console.WriteLine("Hey-ya ya Spheroid blockhead!!!!");
             Console.ReadKey();
             Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("What is your name?");
+            string alias = Console.ReadLine();
+
+
         }
+
     }
 }
