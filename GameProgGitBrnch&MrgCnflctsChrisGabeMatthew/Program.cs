@@ -12,7 +12,12 @@ namespace GameProgGitBrnch_MrgCnflctsChrisGabeMatthew
         {
             Console.ForegroundColor=ConsoleColor.Red;
             Console.WriteLine("Hi-ya Ya round mudball!!!");
-            Console.ReadKey(true);
+            Console.ReadKey();
+            Console.ForegroundColor = ConsoleColor.White;
+
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine("Hey-ya ya square blockhead!!!!");
+            Console.ReadKey();
             Console.ForegroundColor = ConsoleColor.White;
         }
     }
