@@ -22,7 +22,6 @@ namespace GameProgGitBrnch_MrgCnflctsChrisGabeMatthew
             Console.WriteLine("What is your name?");
             string alias = Console.ReadLine();
 
-
         }
 
     }
